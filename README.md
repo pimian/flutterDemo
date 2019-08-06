@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # good_at_marketing
 
 An app to help salespeople learn how to market
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutterDemo
+flutter  测试小项目
+>>>>>>> e0fc679252f3774abd24b3c3c73826be8b1e7bcb
